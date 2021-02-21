@@ -35,7 +35,6 @@ new Vue({
     vuetify,
     components:{
         'example-component' : Example
-
     }
 
 });

@@ -14,9 +14,9 @@
     </head>
     <body class="antialiased">
 
-    <div id="app">
+    <v-app id="app">
         <example-component></example-component>
-    </div>
+    </v-app>
     <script src="{{asset('js/app.js')}}"></script>
     </body>
 </html>
